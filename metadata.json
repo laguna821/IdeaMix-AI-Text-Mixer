@@ -1,0 +1,5 @@
+{
+  "name": "IdeaMix: AI Text Mixer",
+  "description": "A spatial text mixer inspired by Google Mixboard. Type a topic to generate ideas, drag notes to organize, and overlap them to merge using Gemini AI.",
+  "requestFramePermissions": []
+}
